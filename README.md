@@ -6,7 +6,8 @@ This repository is my personal archive of **university coursework, exercises, an
 
 ### 📂 Current structure:
 - 🖥️ **bash/** – Shell scripts and experiments with Linux/command-line utilities.  
-- 📊 **statistical_analysis/** – Assignments, notes, and projects related to probability and statistics.  
+- 📊 **statistical_analysis/** – Assignments, notes, and projects related to probability and statistics.
+- 🗄️ **databases/** – Coursework, queries, and experiments related to database systems and SQL.
 
 ### 🚀 What’s next?
 More folders will be added as I continue my studies (e.g., **mathematics**, **algorithms**, **machine_learning**, …).  
